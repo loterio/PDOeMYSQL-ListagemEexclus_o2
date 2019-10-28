@@ -1,0 +1,21 @@
+.a {
+  background: black;
+  color: white;
+}
+form a.btn {
+  background: rgb(230, 230, 230);
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 4px;
+}
+form a.btn:hover {
+  background: rgb(192, 192, 192);
+}
+
+/* tipos: PA SUS PL SO */
+.PA {color: blue; font-family: 'Times New Roman';}
+.SUS {color: green; font-family: Verdana;}
+.PL {color: red; font-style: italic; font-family: Arial;}
+.SO {color: rgb(85, 85, 85); font-style: italic; font-family: 'Courier New';}
